@@ -74,7 +74,7 @@ public class HelloController implements Initializable {
 
     private Button BtnDle = new Button("Delete");
     private Button BtnEdit = new Button("Edit");
-    private Button BtnView = new Button("View");
+    private Button BtnView = new Button("View1");
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
